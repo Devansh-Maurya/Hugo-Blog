@@ -1,0 +1,55 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Devansh's Blog"
+  subtitle    = "Android"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "devindevansh"
+  fbName = "fakeghost"
+  githubName = "Devansh-Maurya"
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Devansh Maurya"
+  authorAvatar = "https://avatars0.githubusercontent.com/u/36022788?s=460&u=20c2d36e5153c55ec15b040976774f91022dd1f0&v=4"
+  authorLocation = "Lucknow, UP, IN"
+  authorWebsite = "https://devm.tech"
+  authorDescription = "An Android Lover and Developer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Posts"
+  url = "/post/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 98
