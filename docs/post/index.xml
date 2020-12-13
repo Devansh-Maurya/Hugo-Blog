@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://devm.tech/Hugo-Blog/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 13 Dec 2020 16:04:52 +0530</lastBuildDate><atom:link href="http://devm.tech/Hugo-Blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get a custom formatted email message with PR info using Github Actions</title>
+      <link>http://devm.tech/Hugo-Blog/get-a-custom-formatted-email-message-with-pr-info-using-github-actions/</link>
+      <pubDate>Sun, 13 Dec 2020 16:04:52 +0530</pubDate>
+      
+      <guid>http://devm.tech/Hugo-Blog/get-a-custom-formatted-email-message-with-pr-info-using-github-actions/</guid>
+      <description>My Workflow I have built my very first Github action from scratch thanks to the Github Actions hackathon by @devteam. The action provides a well-formatted email subject and body using branch name used for Pull Request and other information obtained from the pull request.
+I used Javascript to do string processing on the branch name and get a formatted email subject and body with PR info added to it.
+The action&amp;rsquo;s inputs and outputs are shown below:</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the Jungle</title>
+      <link>http://devm.tech/Hugo-Blog/welcome-to-the-jungle/</link>
+      <pubDate>Sun, 13 Dec 2020 16:04:52 +0530</pubDate>
+      
+      <guid>http://devm.tech/Hugo-Blog/welcome-to-the-jungle/</guid>
+      <description>It&amp;rsquo;s been two months of me being a part of the software engineers&#39; tribe in the IT jungle, as an Android engineer in an ed-tech startup. Because of the ongoing pandemic, I am working from home like a lot of other tribe members. I never expected my first job to start remotely. I was very excited to start my carrier as a software developer, especially because it would have been an opportunity to move to a new city and explore places - travelling soul I tell you ☹️ - but that didn&amp;rsquo;t happen because of the pandemic.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,7 +3,7 @@ theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
-publishDir = "docs"
+publishDir      = "docs"
 #SectionPagesMenu = "main"
 
 [params]
